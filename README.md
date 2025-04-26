@@ -18,7 +18,6 @@ Currently seeking challenging internship opportunities in **Data Analysis** or *
 * **Software/Platforms:** Windows | Linux | Microsoft Office Suite | Git
 * **Interests:** Embedded Systems (Arduino, ESP32) | 3D Printing | PC Hardware | Data Analysis | Application Development
 
-*_(Tip: Replace the text above with cool badges/icons from sources like [shields.io](https://shields.io/) or simpleicons.org!)_*
 
 ---
 
@@ -30,7 +29,6 @@ Here are a few projects I've enjoyed working on:
 * **[Virtual ASCII Camera](https://github.com/ColbyJacks/VirtualAsciiCam)**: Converts live webcam feed into ASCII art and outputs it to a virtual camera using Python and Pygame.
 * **[pyAudioController](https://github.com/ColbyJacks/pyAudioController)**: A Python tool inspired by DEEJ for application-specific audio volume control using hardware inputs.
 
-*_(Tip: Make sure these repositories are pinned on your profile and have good READMEs themselves!)_*
 
 ---
 
