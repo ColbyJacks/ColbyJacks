@@ -7,7 +7,7 @@
 
 I'm a Computer Science student at the University of Texas at San Antonio (UTSA), passionate about programming, problem-solving, and exploring new technologies. I enjoy designing and creating applications to tackle real-world challenges.
 
-Currently seeking challenging internship opportunities in **Data Analysis** or **Software Engineering** for Summer/Fall [Year - e.g., 2025].
+Currently seeking challenging internship opportunities in **Data Analysis** or **Software Engineering** for Summer/Fall [2025].
 
 ---
 
